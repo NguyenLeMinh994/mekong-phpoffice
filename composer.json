@@ -7,16 +7,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mark Baker"
-        },
-        {
-            "name": "Franck Lefevre",
-            "homepage": "http://rootslabs.net"
-        },
-        {
-            "name": "Ivan Lanin",
-            "homepage": "http://ivan.lanin.org"
+            "name": "Minh"
         }
+    
     ],
     "require": {
         "php": ">=5.3.0"
