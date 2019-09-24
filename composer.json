@@ -1,5 +1,5 @@
 {
-    "name": "phpoffice/phppresentation",
+    "name": "mekongphpoffice/*",
     "description": "PHPPresentation - Read, Create and Write Presentations documents in PHP",
     "keywords": ["PHP","PowerPoint","LibreOffice","pptx","ppt","odp","presentations"],
     "homepage": "http://phpoffice.github.io",
@@ -19,14 +19,9 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
-        "ext-xml": "*",
-        "ext-zip": "*"
+        "php": ">=5.3.0"
     },
   
-    "suggest": {
-        "ext-gd2": "Required to add images"
-    },
     "autoload": {
         "psr-4": {
             "PhpOffice\\PhpPresentation\\": "phppresentation/src/PhpPresentation/",
